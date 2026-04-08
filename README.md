@@ -1,7 +1,6 @@
 # Hi, I'm Kristen 👋
 
 Full Stack Developer based in Porto, Portugal 🇵🇹  
-Currently at **Accenture Portugal**, building scalable web apps and levelling up on backend with Node.js.
 
 ---
 
